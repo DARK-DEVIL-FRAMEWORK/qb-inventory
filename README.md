@@ -1,11 +1,9 @@
-# QBCore-inventory with decay system 
+# QBCore-inventory
 
 - NEW DESIGN 
 - CLEAN UI
-- DECAY SUPPORT
 - SHOW HEALTH SHIELD STATUS
 - BANK , CASH, PLAYERNAME & ID 
-- DURABLITY WITH BAR & number
  
 
 
