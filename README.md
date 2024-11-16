@@ -1,4 +1,4 @@
-# victro-inventory with decay system 
+# QBCore-inventory with decay system 
 
 - NEW DESIGN 
 - CLEAN UI
@@ -8,6 +8,9 @@
 - DURABLITY WITH BAR & number
  
 
+
+# Inventor Images
+- Add All images from your old qb-inventory Scripts 
 
 # Previews
 ![full inventory](https://cdn.discordapp.com/attachments/586778820259086366/1090869581280727060/image.png)
