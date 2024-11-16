@@ -1,0 +1,2 @@
+# qb-inventory
+QBCore Inventory
