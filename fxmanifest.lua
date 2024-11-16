@@ -1,9 +1,8 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'TreyTrey23'
-description 'discord.gg/allinrp -- Only Buy The V9 From Here'
-version 'V.9.0'
+author 'DARK DEVIL'
+description 'https://discord.gg/burV8myXTe'
 
 shared_scripts {
     '@qb-core/shared/locale.lua',
